@@ -42,7 +42,8 @@ section#login > div#imagem{
     background:#5f2c82 url(../imagens/bmw-projetologin.jpg);
     height:200px;
     background-size: cover;
-   
+    transition: width 0.5s, height 0.5s;
+    transition-timing-function: ease;
 }
 
 section#login > div#formulario{
