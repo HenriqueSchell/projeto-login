@@ -30,7 +30,7 @@ section#login{
     left:50%;
     transform:translate(-50%, -50%);
     background-color:white;
-    width:300px;
+    width:350px;
     height:500px;
     border-radius:20px;
     overflow: hidden;
@@ -40,7 +40,7 @@ section#login{
 section#login > div#imagem{
     display: block;
     background:#5f2c82 url(../imagens/bmw-projetologin.jpg);
-    height:200px;
+    height:300px;
     background-size: cover;
     transition: width 0.5s, height 0.5s;
     transition-timing-function: ease;
